@@ -37,7 +37,7 @@ code blocks for commands
 For assistance or troubleshooting:
 
 *Check the Issues section on GitHub.
-*Contact the project maintainers via email at mbazzi@google.com.
+*Contact the project maintainers via email at mohamad.bazzi@telus.com
 
 ## Authors
 
